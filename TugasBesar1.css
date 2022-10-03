@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: black;
+}
+
+.judul{
+
+    padding-top: 10px;
+    background:red;
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+
+}
+.gambar,
+img{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin: auto;
+    width: 700px;
+    height: 600px;
+}
+.konten{
+    text-align: justify;
+    font-size: 20px;
+    margin: auto;
+    color: white;
+    padding: 10px 10px 10px 50px;
+}
+.jenis{
+
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    padding: 10px 10px 10px 50px;
+}
+
+table, tr, th {
+    margin: auto;
+    border: 1px solid #999;
+    padding: 8px 20px;
+    color: white;
+  }
+.pengaduan{
+    color: white;
+    text-align: justify;
+    padding: 10px 10px 10px 50px;
+    font-size: 20px;
+}
+.ciri{
+    color: white;
+    text-align: justify;
+    padding: 10px 10px 30px 50px;
+    font-size: 20px;
+
+}
+
+.prem,h1,a{
+    background:red;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: none;
+}
